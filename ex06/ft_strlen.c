@@ -6,7 +6,7 @@
 /*   By: psergio- <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/04 19:38:55 by psergio-          #+#    #+#             */
-/*   Updated: 2021/04/04 19:41:26 by psergio-         ###   ########.fr       */
+/*   Updated: 2021/04/05 04:11:20 by psergio-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,5 +17,5 @@ int	ft_strlen(char *str)
 	size = 0;
 	while (*(str++))
 		size++;
-	return size;
+	return (size);
 }

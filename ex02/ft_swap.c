@@ -6,11 +6,11 @@
 /*   By: psergio- <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/04 13:31:51 by psergio-          #+#    #+#             */
-/*   Updated: 2021/04/04 13:32:18 by psergio-         ###   ########.fr       */
+/*   Updated: 2021/04/05 04:10:07 by psergio-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_swap(int *a, int *b)
+void	ft_swap(int *a, int *b)
 {
 	int tmp;
 
